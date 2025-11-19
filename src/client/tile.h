@@ -21,10 +21,10 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 
 #include "irrlichttypes.h"
 #include "irr_v3d.h"
-#include <ITexture.h>
+#include "irrlicht/include/ITexture.h"
 #include <string>
 #include <vector>
-#include <SMaterial.h>
+#include "irrlicht/include/SMaterial.h"
 #include <memory>
 #include "util/numeric.h"
 #include "config.h"

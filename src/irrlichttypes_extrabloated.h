@@ -22,15 +22,15 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 #include "irrlichttypes_bloated.h"
 
 #ifndef SERVER
-#include <IMesh.h>
-#include <IImage.h>
-#include <IrrlichtDevice.h>
-#include <IMeshSceneNode.h>
-#include <IDummyTransformationSceneNode.h>
-#include <SMesh.h>
-#include <ISceneManager.h>
-#include <IMeshBuffer.h>
-#include <SMeshBuffer.h>
-#include <IGUIElement.h>
-#include <IGUIEnvironment.h>
+#include "util/irrlicht/include/IMesh.h"
+#include "util/irrlicht/include/IImage.h"
+#include "util/irrlicht/include/IrrlichtDevice.h"
+#include "util/irrlicht/include/IMeshSceneNode.h"
+#include "util/irrlicht/include/IDummyTransformationSceneNode.h"
+#include "util/irrlicht/include/SMesh.h"
+#include "util/irrlicht/include/ISceneManager.h"
+#include "util/irrlicht/include/IMeshBuffer.h"
+#include "util/irrlicht/include/SMeshBuffer.h"
+#include "util/irrlicht/include/IGUIElement.h"
+#include "util/irrlicht/include/IGUIEnvironment.h"
 #endif

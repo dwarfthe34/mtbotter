@@ -19,10 +19,10 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 
 #pragma once
 
-#include "util/pointer.h"
-#include "util/numeric.h"
+#include "pointer.h"
+#include "numeric.h"
 #include "networkprotocol.h"
-#include <SColor.h>
+#include "irrlicht/include/SColor.h"
 
 class NetworkPacket
 {
